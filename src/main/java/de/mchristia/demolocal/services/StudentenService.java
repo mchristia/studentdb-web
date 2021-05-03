@@ -11,7 +11,9 @@ public class StudentenService {
     private List<Student> stundentList = List.of(new Student("Marc", "1"),
             new Student("Groß'ATuin", "2"),
             new Student("Klingbin", "3"),
-            new Student("Rincewind", "4")
+            new Student("Rincewind", "4"),
+            new Student("Tourist", "5"),
+            new Student("Simba", "6")
     );
 
     public List<Student> getStundentList() {
